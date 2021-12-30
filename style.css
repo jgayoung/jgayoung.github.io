@@ -1,0 +1,36 @@
+.center {
+  text-align: center;
+}
+
+.title {
+  font-family: 'Roboto Mono', monospace;
+}
+
+.emphasis {
+
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: 100px; 
+}
+
+/* unvisited link */
+a:link {
+  color: green;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: green;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
